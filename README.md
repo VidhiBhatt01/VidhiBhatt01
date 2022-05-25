@@ -2,7 +2,7 @@
 <h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
 
 
-<img align ="right" alt="GirlWhoCodes"  width="400" src="https://media3.giphy.com/media/BferOKonYOspm28AiB/giphy.gif">
+
 <p> 
 
 </p><br>
