@@ -2,7 +2,7 @@
 <h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
 
 <br>
-<img align ="right" alt="GirlWhoCodes"  width="375" src="https://github.com/VidhiBhatt01/VidhiBhatt01/blob/main/Vidhi%20-%20Lofi%20Avatar.png">
+<img align ="right" alt="GirlWhoCodes"  width="400" src="https://github.com/VidhiBhatt01/VidhiBhatt01/blob/main/Vidhi%20-%20Lofi%20Avatar.png">
 
 <p> 
 </p>
@@ -18,6 +18,7 @@
 <br><br>
 
 ![Vidhi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=VidhiBhatt01&theme=tokyonight)
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=VidhiBhatt01&count_private=true&show_icons=true&theme=tokyonight" />
 
 
