@@ -20,4 +20,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VidhiBhatt01&count_private=true&show_icons=true&theme=tokyonight" />
 
-![Vidhi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=VidhiBhatt01&theme=vision-friendly-dark)
+![Vidhi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=VidhiBhatt01&theme=tokyonight)
