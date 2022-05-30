@@ -1,6 +1,7 @@
 <h1 align="center">HELLO WORLD! I'm VIDHI BHATT👋</h1>
 <h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
 
+<br>
 <img align ="right" alt="GirlWhoCodes"  width="375" src="https://github.com/VidhiBhatt01/VidhiBhatt01/blob/main/Vidhi%20-%20Lofi%20Avatar.png">
 
 <p> 
@@ -17,6 +18,6 @@
 <br><br>
 
 ![Vidhi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=VidhiBhatt01&theme=tokyonight)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=VidhiBhatt01&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=VidhiBhatt01&count_private=true&show_icons=true&theme=tokyonight" />
 
 
