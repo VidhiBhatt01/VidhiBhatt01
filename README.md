@@ -1,7 +1,7 @@
 <h1 align="center">HELLO WORLD! I'm VIDHI BHATT👋</h1>
 <h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
 
-<img align ="right" alt="GirlWhoCodes"  width="350" src="https://github.com/VidhiBhatt01/VidhiBhatt01/blob/main/Vidhi%20-%20Lofi%20Avatar.png">
+<img align ="right" alt="GirlWhoCodes"  width="375" src="https://github.com/VidhiBhatt01/VidhiBhatt01/blob/main/Vidhi%20-%20Lofi%20Avatar.png">
 
 <p> 
 </p>
