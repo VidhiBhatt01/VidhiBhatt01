@@ -1,4 +1,4 @@
-<h1 align="center">HELLO WORLD! I'm VIDHI BHATT👋</h1>
+<h1 align="center">HELLO WORLD! I'm VIDHI 👋</h1>
 <h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
 
 <br>
